@@ -1,8 +1,5 @@
 # AI Programming Foundations Project
 
-> **Where to find the project files:** all submission files (`data_workflow.ipynb`, `module_summary.pdf`, `requirements.txt`, `diabetes.csv` and `figures/`) are in the [`ai-programming-foundations-project/ai-programming-foundations-project`](ai-programming-foundations-project/ai-programming-foundations-project) folder. Run the commands below from inside that folder.
-> 
-
 A complete, reproducible data workflow built in a single Jupyter notebook: the notebook loads the
 Pima Indians Diabetes Database from CSV, cleans it with reusable functions that repair the
 physiologically impossible zero values the file uses for missing measurements, explores it with
